@@ -1,0 +1,5 @@
+# Markups fiducial file version = 4.11
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+vtkMRMLMarkupsFiducialNode_0,14.558,-24.933,2.088,0,0,0,1,1,1,0,R_cZi,,vtkMRMLScalarVolumeNode2
+vtkMRMLMarkupsFiducialNode_8,-10.541,-24.303,2.090,0,0,0,1,1,1,0,L_cZi,,vtkMRMLScalarVolumeNode2
